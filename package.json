@@ -1,0 +1,15 @@
+{
+  "name": "neptube",
+  "version": "1.0.0",
+  "description": "Video sharing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Bibek",
+  "license": "ISC"
+}
